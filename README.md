@@ -11,13 +11,13 @@ The structure is as follows
 In our case:
 
 app
-
+|
 | - app.py
-
+|
 | - templates
-
-|   | - blog.html
-
+    |
+    | - blog.html
+|
 | - static
-
+    |
     | - image.jpg
