@@ -29,5 +29,7 @@ The structure is as follows
 * all related html files in directory called "templates"
 * all additional files with pictures, css ets are in "static" directory
 
-![image](https://user-images.githubusercontent.com/118408434/202370899-5b3f7355-3c35-4191-b651-d400ce7d3223.png)
+![image](https://user-images.githubusercontent.com/118408434/202371181-f99cf6c8-2395-4a7d-aa9a-244a460cf6c4.png)
+
+
 
