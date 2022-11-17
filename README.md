@@ -26,17 +26,3 @@ The structure is as follows
 * all related html files in directory called "templates"
 * all additional files with pictures, css ets are in "static" directory
 
-In our case:
-
-app
-/
-/ - app.py
-
-
-/ - templates
-.
-    . - blog.html
-.
-. - static
-.
-    . - image.jpg
