@@ -14,9 +14,12 @@ first, clone it and "cd" to directory ""
     
 second, run command to start web server in your browser
 
+    $ python template.py
+
+
 third, open this page in your browser:
 
-localhost/5000/blogs/5
+    localhost/5000/blogs/5
 
 *****
 
