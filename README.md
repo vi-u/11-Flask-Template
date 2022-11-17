@@ -6,7 +6,7 @@ Basic understanding of Flask Templates will help to implement ypur Python code i
 
 To run it, 
 
-first, clone it and "cd" to directory ""
+first, clone it and "cd" to directory "Flask-Template"
 
     $ git clone https://github.com/vi-u/Flask-Template.git
     $ cd Flask-Template
