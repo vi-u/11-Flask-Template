@@ -6,10 +6,10 @@ Basic understanding of Flask Templates will help to implement ypur Python code i
 
 To run it, 
 
-first, clone it and "cd" to directory "Flask-Template"
+first, clone it and "cd" to directory "11-Flask-Template"
 
-    $ git clone https://github.com/vi-u/Flask-Template.git
-    $ cd Flask-Template
+    $ git clone https://github.com/vi-u/11-Flask-Template.git
+    $ cd 11-Flask-Template
     
     
 second, run command to start web server in your browser
@@ -19,7 +19,7 @@ second, run command to start web server in your browser
 
 third, open this page in your browser:
 
-    localhost/5000/blogs/5
+    localhost:5000/blogs/5
 
 *****
 
