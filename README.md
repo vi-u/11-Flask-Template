@@ -22,10 +22,15 @@ third, in your browser open this page:
     localhost:5000/blogs/5
 
 *****
+The exact working of a web template system is as follows:
 
+    Extracts required data from DB or Form
+    Combine the Data into the HTML file(using the template language) with the template engine
+    Template Processor then processes it and outputs the resulting template file
 
-The structure is as follows 
-* application file "app.py" is in root directory
+*****
+The structure of current application is as follows 
+* application file "template.py" is in root directory
 * all related html files in directory called "templates"
 * all additional files with pictures, css ets are in "static" directory
 
